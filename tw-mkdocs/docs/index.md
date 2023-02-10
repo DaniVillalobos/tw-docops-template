@@ -1,4 +1,5 @@
-# "Insert your name, here"
+# **Dani Villalobos**
 
-<img src="./images/jp-pic.jpg" width="150">
+<img src="/images/avatar1.jpeg" width="150">
 
+### **Technical Writer**
